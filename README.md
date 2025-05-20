@@ -35,3 +35,4 @@ R-Studio Storm Report to Stakeholders
 <img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm3.png" />
 <br />
 <br />
+<p/>
