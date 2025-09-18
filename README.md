@@ -1,38 +1,53 @@
-<h1>Storm and Climate Report</h1>
+# Storm Data
 
 
-<h2>Description</h2>
-R-Studio Storm Report to Stakeholders
-<br />
+## Executive Summary:
+
+ Used storm data to predict crimes that are most likely to take place during a storm within the city of Miami, Florida. Not only did I look for most common type of crime during any storm but I viewed which district was being hit the most depending on what storm activity was accuring. The type of analysis used for this project was a predictive model using R-studio.
 
 
-<h2>Language</h2>
 
-- <b>R Studio</b> 
+### Business Problem: 
+
+  The Miami Police Department has been having trouble with the crime rate when storms are occuring in Miami, Florida. They want to know what crimes should be predicted to happen and what districts those crimes are likely to occur. They want to be able to not only predict the crime but also the location so they can send out warning about what to do to deter crime or reduce the rate of the crime.
 
 
-<h2>Environments Used </h2>
 
-- <b>Windows 11, Mac OS</b> (21H2)
+### Methodology: 
 
-<h2>Storm Report:</h2>
+1. R-studio predictive analysis model
+   
+2. Data visuals built within R-studio
 
-<p align="center">
-<b>Storm Report: <b/>
-  <br /)
-<b></b>https://github.com/CaddenB26/Storm-Data/blob/f3903f45655d3daaf01e3e9548400e8ddaf01e99/DAT%20375%20Project%20Two%20Cadden%20Buist.docx
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm1.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm2.png" />
-<br />
-<br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm3.png" />
-<br />
-<br />
+3. Predictive analysis for crime during a storm
+
+
+### Skills:
+
+R-studio: predictive model
+
+Data visualization: line chart
+
+
+
+
+### Results & Business Recommendation: 
+
+  During the analysis I noticed that the crime that had the highest rate by far was propery damage/stolen property resulting in thousands of dollars of damaged or stolen goods when a storm occurs. A small percentage of the crimes committed were violent crimes when there was any kind of storm. Most districts experienced the assets crimes over the time frame 2017-2019 but depending on the type of storm would depend on which districts (multiple) would be hit with the crime. This information resulted in areas to patrol during storms safe to travel in and announcements for districts likely to be hit with the crimes during storm activity.
+
+
+
+
+Strides to take to deter these crimes:
+
+1. Partrol districts most likely to be hit with crime
+2. Send announcements before a storm occurs to lock up vehicles, homes, businesses and to close all garage doors
+3. Train police officers to spot all suspicious activities that can occur during a stressful natural occurrence
+
+
+### Next Steps: 
+
+1. Continue to monitor the data in case a new crime rises due to the decrease of assets crimes
+2. Analyze district crime activities watching for shifts to less patroled districts during storms
+3. Use the predictive analysis to predict when other crimes during seasons are to occur and which crimes
 <p/>
